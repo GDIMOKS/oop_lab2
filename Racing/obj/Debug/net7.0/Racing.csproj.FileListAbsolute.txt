@@ -1,0 +1,15 @@
+C:\Users\DIMOK\Desktop\RiderProjects\Racing\Racing\bin\Debug\net7.0\Racing.exe
+C:\Users\DIMOK\Desktop\RiderProjects\Racing\Racing\bin\Debug\net7.0\Racing.deps.json
+C:\Users\DIMOK\Desktop\RiderProjects\Racing\Racing\bin\Debug\net7.0\Racing.runtimeconfig.json
+C:\Users\DIMOK\Desktop\RiderProjects\Racing\Racing\bin\Debug\net7.0\Racing.dll
+C:\Users\DIMOK\Desktop\RiderProjects\Racing\Racing\bin\Debug\net7.0\Racing.pdb
+C:\Users\DIMOK\Desktop\RiderProjects\Racing\Racing\obj\Debug\net7.0\Racing.csproj.AssemblyReference.cache
+C:\Users\DIMOK\Desktop\RiderProjects\Racing\Racing\obj\Debug\net7.0\Racing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIMOK\Desktop\RiderProjects\Racing\Racing\obj\Debug\net7.0\Racing.AssemblyInfoInputs.cache
+C:\Users\DIMOK\Desktop\RiderProjects\Racing\Racing\obj\Debug\net7.0\Racing.AssemblyInfo.cs
+C:\Users\DIMOK\Desktop\RiderProjects\Racing\Racing\obj\Debug\net7.0\Racing.csproj.CoreCompileInputs.cache
+C:\Users\DIMOK\Desktop\RiderProjects\Racing\Racing\obj\Debug\net7.0\Racing.dll
+C:\Users\DIMOK\Desktop\RiderProjects\Racing\Racing\obj\Debug\net7.0\refint\Racing.dll
+C:\Users\DIMOK\Desktop\RiderProjects\Racing\Racing\obj\Debug\net7.0\Racing.pdb
+C:\Users\DIMOK\Desktop\RiderProjects\Racing\Racing\obj\Debug\net7.0\Racing.genruntimeconfig.cache
+C:\Users\DIMOK\Desktop\RiderProjects\Racing\Racing\obj\Debug\net7.0\ref\Racing.dll
