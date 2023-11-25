@@ -15,12 +15,9 @@ while (true)
     
     switch (raceType)
     {
-        case 1 or 2 or 3: //наземная
-        /*case 2: //воздушная
-        case 3: //общая*/
-            //запись всех дурачков на гонку
+        case 1 or 2 or 3: 
             Console.WriteLine("Введите дистанцию в виде положительного числа:");
-            if (!int.TryParse(Console.ReadLine(), out int distance) || distance < 0)
+            if (!int.TryParse(Console.ReadLine(), out int distance) || distance <= 0)
                 continue;
         
             List<Vehicle> vehicles = new List<Vehicle>();
